@@ -1,0 +1,9 @@
+uncompyle6 
+xdis
+request 
+base64
+bs4
+uncompyle6==3.7.4
+xdis==5.0.11
+
+
